@@ -1,4 +1,4 @@
-module github.com/xyfom/go-service
+module github.com/xofym/go-service
 
 go 1.12
 
