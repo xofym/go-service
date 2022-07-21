@@ -1,4 +1,4 @@
-module github.com/euskadi31/go-service
+module github.com/xyfom/go-service
 
 go 1.12
 
